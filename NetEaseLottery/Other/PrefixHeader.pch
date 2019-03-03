@@ -1,0 +1,11 @@
+//
+//  PrefixHeader.pch
+//  NetEaseLottery
+//
+//  Created by Stephen Cao on 27/2/19.
+//  Copyright © 2019 Stephen Cao. All rights reserved.
+//
+#define kScreenSize [UIScreen mainScreen].bounds
+#define kScreenWidth [UIScreen mainScreen].bounds.size.width
+#define kScreenHeight [UIScreen mainScreen].bounds.size.height
+

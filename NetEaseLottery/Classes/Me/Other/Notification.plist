@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>plistName</key>
+				<string>LotteryDrawing</string>
+				<key>destinationController</key>
+				<string>SCSettingsTableViewController</string>
+				<key>accessoryContent</key>
+				<string>arrow_right</string>
+				<key>accessoryType</key>
+				<string>UIImageView</string>
+				<key>title</key>
+				<string>Lottery Drawing</string>
+			</dict>
+			<dict>
+				<key>plistName</key>
+				<string>LiveMatchResult</string>
+				<key>destinationController</key>
+				<string>SCLiveResultTableViewController</string>
+				<key>accessoryContent</key>
+				<string>arrow_right</string>
+				<key>accessoryType</key>
+				<string>UIImageView</string>
+				<key>title</key>
+				<string>Live Match Result Notification</string>
+			</dict>
+			<dict>
+				<key>plistName</key>
+				<string>WinAnimation</string>
+				<key>destinationController</key>
+				<string>SCLiveResultTableViewController</string>
+				<key>accessoryContent</key>
+				<string>arrow_right</string>
+				<key>accessoryType</key>
+				<string>UIImageView</string>
+				<key>title</key>
+				<string>Lottery Winning Animation</string>
+			</dict>
+			<dict>
+				<key>destinationController</key>
+				<string>SCLiveResultTableViewController</string>
+				<key>plistName</key>
+				<string>PurchaseLottery</string>
+				<key>accessoryContent</key>
+				<string>arrow_right</string>
+				<key>accessoryType</key>
+				<string>UIImageView</string>
+				<key>title</key>
+				<string>Lottery Purchase Notification</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

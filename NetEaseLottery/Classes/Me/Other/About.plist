@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>functionName</key>
+				<string>rateThisApp</string>
+				<key>accessoryType</key>
+				<string>UIImageView</string>
+				<key>accessoryContent</key>
+				<string>arrow_right</string>
+				<key>title</key>
+				<string>Rating</string>
+			</dict>
+			<dict>
+				<key>functionName</key>
+				<string>makeACall</string>
+				<key>cellStyle</key>
+				<string>UITableViewCellStyleValue1</string>
+				<key>subtitle</key>
+				<string>04507967xx</string>
+				<key>accessoryType</key>
+				<string>UIImageView</string>
+				<key>accessoryContent</key>
+				<string>arrow_right</string>
+				<key>title</key>
+				<string>Tel:</string>
+			</dict>
+			<dict>
+				<key>functionName</key>
+				<string>sendAMessage</string>
+				<key>cellStyle</key>
+				<string>UITableViewCellStyleValue1</string>
+				<key>subtitle</key>
+				<string>04502310xx</string>
+				<key>accessoryType</key>
+				<string>UIImageView</string>
+				<key>accessoryContent</key>
+				<string>arrow_right</string>
+				<key>title</key>
+				<string>SMS:</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

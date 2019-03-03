@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>header</key>
+		<string>good day</string>
+		<key>items</key>
+		<array>
+			<dict>
+				<key>switchKey</key>
+				<string>LotteryDrawing_group0_00</string>
+				<key>cellStyle</key>
+				<string>UITableViewCellStyleSubtitle</string>
+				<key>subtitle</key>
+				<string>All Weekdays Morning</string>
+				<key>accessoryType</key>
+				<string>UISwitch</string>
+				<key>title</key>
+				<string>Cash Cow</string>
+			</dict>
+			<dict>
+				<key>switchKey</key>
+				<string>LotteryDrawing_group0_01</string>
+				<key>cellStyle</key>
+				<string>UITableViewCellStyleSubtitle</string>
+				<key>subtitle</key>
+				<string>All Weekdays Morning</string>
+				<key>accessoryType</key>
+				<string>UISwitch</string>
+				<key>title</key>
+				<string>Cash Cow</string>
+			</dict>
+			<dict>
+				<key>switchKey</key>
+				<string>LotteryDrawing_group0_02</string>
+				<key>cellStyle</key>
+				<string>UITableViewCellStyleSubtitle</string>
+				<key>subtitle</key>
+				<string>All Weekdays Morning</string>
+				<key>accessoryType</key>
+				<string>UISwitch</string>
+				<key>title</key>
+				<string>Cash Cow</string>
+			</dict>
+			<dict>
+				<key>switchKey</key>
+				<string>LotteryDrawing_group0_03</string>
+				<key>cellStyle</key>
+				<string>UITableViewCellStyleSubtitle</string>
+				<key>subtitle</key>
+				<string>All Weekdays Morning</string>
+				<key>accessoryType</key>
+				<string>UISwitch</string>
+				<key>title</key>
+				<string>Cash Cow</string>
+			</dict>
+			<dict>
+				<key>switchKey</key>
+				<string>LotteryDrawing_group0_04</string>
+				<key>cellStyle</key>
+				<string>UITableViewCellStyleSubtitle</string>
+				<key>subtitle</key>
+				<string>All Weekdays Morning</string>
+				<key>accessoryType</key>
+				<string>UISwitch</string>
+				<key>title</key>
+				<string>Cash Cow</string>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>
